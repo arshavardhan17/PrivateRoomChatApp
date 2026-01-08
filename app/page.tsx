@@ -5,7 +5,7 @@ export default function Home() {
    <div className="w-full max-w-md space-y-8">
      <div className=" border border-zinc-800 bg-zinc-900 p-6 backdrop-blur-md">
       <div className="space-y-5">
-        <div className="space-y-3">
+        <div className="space-y-2">
           Create Room
         </div>
       </div>
